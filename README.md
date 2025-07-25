@@ -17,34 +17,12 @@ This project is a Streamlit-based web application that generates personalized le
 - Google ai Studio API Key
 - Pipedream URLs for integrations (YouTube and either Drive or Notion)
 
-## Installation
-
-1. Clone the repository:
-
-2. Create and activate a virtual environment:
-
-3. Install the required packages:
-```bash
-pip install -r requirements.txt
-```
-
-## Configuration
-
 Before running the application, you'll need to set up:
 
 1. Google API Key
 2. Pipedream URLs for:
    - YouTube (required)
    - Google Drive or Notion (based on your preference)
-
-## Running the Application
-
-To start the application, run:
-```bash
-streamlit run app.py
-```
-
-The application will be available at `http://localhost:8501` by default.
 
 ## Usage
 
