@@ -11,6 +11,8 @@ This project is a Streamlit-based web application that generates personalized le
 - 🚀 Real-time progress tracking
 - 🎨 User-friendly Streamlit interface
 
+**Screenshots are on the images folder**
+
 ## Prerequisites
 
 - Python 3.10+
